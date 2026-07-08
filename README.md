@@ -246,7 +246,7 @@ A responsive e-commerce frontend inspired by Myntra with modern UI components an
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="https://leetcode.com/u/Pritishmandal/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
@@ -291,7 +291,11 @@ while(alive){
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PritishMandal/PritishMandal/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PritishMandal/PritishMandal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PritishMandal/PritishMandal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/PritishMandal/PritishMandal/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
