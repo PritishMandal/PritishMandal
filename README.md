@@ -119,7 +119,6 @@ An AI-powered Computer Vision application designed to detect manipulated and AI-
 ### ✨ Highlights
 
 - Deepfake Image Detection
-- Morphed Face Detection
 - Image Processing Pipeline
 - AI Prediction Engine
 - Secure Upload & Analysis
@@ -315,12 +314,7 @@ Building:
 
 Learning:
   - Data Structures & Algorithms
-  - Java Backend Development
-  - Spring Boot
-  - REST APIs
-  - System Design
   - Machine Learning
-  - Large Language Models
   - Agentic AI
 
 Goals:
@@ -341,16 +335,6 @@ Goals:
 <td>📚 Data Structures & Algorithms</td>
 <td>☕ Java Backend Development</td>
 
-</tr>
-
-<tr>
-
-<td>🍃 Spring Boot</td>
-<td>🔗 REST APIs</td>
-
-</tr>
-
-<tr>
 
 <td>🧠 System Design</td>
 <td>🤖 Machine Learning</td>
@@ -368,27 +352,6 @@ Goals:
 
 ---
 
-# 💡 Engineering Philosophy
-
-> **"Build software that solves real-world problems. Learn continuously. Stay consistent. Keep improving."**
-
-```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Debug();
-
-    Improve();
-
-    Repeat();
-
-}
-```
-
----
 
 # 🤝 Connect With Me
 
