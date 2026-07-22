@@ -292,7 +292,6 @@ Goals:
   - Software Engineering Internship
   - AI/ML Internship
   - Contribute to Open Source
-  - Build Production Ready Software
 ```
 
 ---
@@ -328,11 +327,11 @@ Goals:
 <img src="https://img.shields.io/badge/GitHub-PritishMandal-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:pritishmandal21@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://leetcode.com/u/Pritishmandal/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
