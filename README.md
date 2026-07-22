@@ -104,7 +104,6 @@ An AI-powered career guidance platform that analyzes resumes, identifies missing
 ---
 
 <details>
-<summary><b>🛡️ AI-Powered Deepfake & Morphed Content Detector</b></summary>
 
 <br>
 
