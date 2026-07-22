@@ -255,25 +255,6 @@ A responsive e-commerce frontend inspired by Myntra with modern UI components an
 
 > Replace the profile links with your actual usernames.
 
----
-
-# ⚡ Fun Fact
-
-```java
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Debug();
-
-    Deploy();
-
-    Repeat();
-
-}
-```
 
 ---
 # 🐍 Contribution Snake
@@ -324,16 +305,12 @@ Goals:
 
 <td>📚 Data Structures & Algorithms</td>
 <td>☕ Java Backend Development</td>
-
-
-<td>🧠 System Design</td>
 <td>🤖 Machine Learning</td>
 
 </tr>
 
 <tr>
 
-<td>💬 Large Language Models</td>
 <td>⚡ Agentic AI</td>
 
 </tr>
