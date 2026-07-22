@@ -221,16 +221,6 @@ A responsive e-commerce frontend inspired by Myntra with modern UI components an
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PritishMandal&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
