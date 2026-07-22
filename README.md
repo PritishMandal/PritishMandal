@@ -100,8 +100,6 @@ An AI-powered career guidance platform that analyzes resumes, identifies missing
 - Scalable Architecture
 
 </details>
-
-
 <br>
 
 </details>
