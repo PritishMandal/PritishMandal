@@ -78,7 +78,6 @@ I enjoy solving real-world problems through modern technologies, hackathons, ope
 
 <details>
 <summary><b>🤖 SkillOrbit AI — Smart Internship & Skill Gap Analyzer</b></summary>
-
 <br>
 
 An AI-powered career guidance platform that analyzes resumes, identifies missing skills, and generates personalized learning roadmaps using AI.
