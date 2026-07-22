@@ -104,22 +104,6 @@ An AI-powered career guidance platform that analyzes resumes, identifies missing
 
 <br>
 
-An AI-powered Computer Vision application designed to detect manipulated and AI-generated images using Deep Learning and image processing techniques.
-
-| Attribute | Details |
-|------------|---------|
-| **Role** | AI/ML Developer |
-| **Tech Stack** | Python • OpenCV • Deep Learning • React |
-| **Focus** | Computer Vision • AI Security • Deep Learning |
-
-### ✨ Highlights
-
-- Deepfake Image Detection
-- Image Processing Pipeline
-- AI Prediction Engine
-- Secure Upload & Analysis
-- Interactive Dashboard
-
 </details>
 
 ---
