@@ -71,14 +71,10 @@ I enjoy solving real-world problems through modern technologies, hackathons, ope
 
 ---
 
-# 📌 Featured Projects
-
-> Building real-world software with **AI**, **Full Stack Development**, and **Modern Software Engineering**.
 # 🚀 Featured Projects
 
 <details>
 <summary><b>🤖 SkillOrbit AI — Smart Internship & Skill Gap Analyzer</b></summary>
-<br>
 
 An AI-powered career guidance platform that analyzes resumes, identifies missing skills, and generates personalized learning roadmaps using AI.
 
@@ -86,7 +82,7 @@ An AI-powered career guidance platform that analyzes resumes, identifies missing
 |------------|---------|
 | **Role** | Full Stack Developer |
 | **Tech Stack** | React • Tailwind CSS • Python • AI/ML • LLMs |
-| **Features** | Resume Parsing, Skill Matching, AI Roadmap Generation, Career Recommendations |
+| **Features** | Resume Parsing • Skill Matching • AI Roadmap Generation • Career Recommendations |
 | **Focus** | AI • Full Stack Development • Career Guidance |
 
 ### ✨ Highlights
@@ -99,10 +95,8 @@ An AI-powered career guidance platform that analyzes resumes, identifies missing
 - Scalable Architecture
 
 </details>
-<br>
 
 ---
-
 <details>
 <summary><b>🐉 Dragon Jump</b></summary>
 
