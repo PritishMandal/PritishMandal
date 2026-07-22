@@ -101,9 +101,6 @@ An AI-powered career guidance platform that analyzes resumes, identifies missing
 
 </details>
 
----
-
-<details>
 
 <br>
 
