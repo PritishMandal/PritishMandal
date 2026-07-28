@@ -92,8 +92,6 @@ An AI-powered career guidance platform that analyzes resumes, identifies missing
 - Personalized Learning Roadmap
 - Intelligent Career Recommendations
 - Modern Responsive UI
-- Scalable Architecture
-
 </details>
 
 ---
