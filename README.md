@@ -170,7 +170,7 @@ A responsive e-commerce frontend inspired by Myntra with modern UI components an
 </details>
 
 ---
-# 📊 GitHub Analytics
+# 📊 GitHub Analyticss
 
 <div align="center">
 
