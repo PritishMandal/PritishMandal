@@ -170,11 +170,11 @@ A responsive e-commerce frontend inspired by Myntra with modern UI components an
 </details>
 
 ---
-# 📊 GitHub Analyticss
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PritishMandal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PritishMandal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=PritishMandal&theme=tokyonight&hide_border=true"/>
 
@@ -182,7 +182,7 @@ A responsive e-commerce frontend inspired by Myntra with modern UI components an
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PritishMandal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritishMandal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
