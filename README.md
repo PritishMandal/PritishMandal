@@ -11,7 +11,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Software+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Java+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
 
 </div>
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PritishMandal&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
